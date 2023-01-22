@@ -1,1 +1,2 @@
 zmiany wprowadzone do pliku po commicie
+kolejne zmiany zgodnie z poleceniem
